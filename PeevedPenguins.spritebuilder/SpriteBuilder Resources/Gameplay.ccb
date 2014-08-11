@@ -55,8 +55,8 @@
 					<string>Position</string>
 					<key>value</key>
 					<array>
-						<real>166.00001525878906</real>
-						<real>94</real>
+						<real>228.00001525878906</real>
+						<real>95</real>
 						<integer>0</integer>
 						<integer>0</integer>
 						<integer>0</integer>
@@ -139,6 +139,8 @@
 					</array>
 				</dict>
 			</array>
+			<key>selected</key>
+			<true/>
 		</dict>
 		<dict>
 			<key>UUID</key>
@@ -164,8 +166,8 @@
 					<string>Position</string>
 					<key>value</key>
 					<array>
-						<real>169.65553283691406</real>
-						<real>294.296875</real>
+						<real>233</real>
+						<real>299</real>
 						<integer>0</integer>
 						<integer>0</integer>
 						<integer>0</integer>
@@ -202,8 +204,8 @@
 					<string>Point</string>
 					<key>value</key>
 					<array>
-						<real>-63.344463348388672</real>
-						<real>9.2968730926513672</real>
+						<real>0.0</real>
+						<real>14</real>
 					</array>
 				</dict>
 				<dict>
@@ -213,8 +215,8 @@
 					<string>Point</string>
 					<key>value</key>
 					<array>
-						<real>14.468734741210938</real>
-						<real>137.19921875</real>
+						<real>14</real>
+						<real>150</real>
 					</array>
 				</dict>
 				<dict>
@@ -246,7 +248,7 @@
 					<string>EnabledFloat</string>
 					<key>value</key>
 					<array>
-						<real>66.068946838378906</real>
+						<real>50</real>
 						<true/>
 					</array>
 				</dict>
@@ -503,8 +505,8 @@
 										<string>Position</string>
 										<key>value</key>
 										<array>
+											<real>240</real>
 											<real>178</real>
-											<real>177</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
@@ -717,8 +719,8 @@
 										<string>Position</string>
 										<key>value</key>
 										<array>
-											<real>191</real>
-											<real>76</real>
+											<real>253</real>
+											<real>77</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
@@ -806,8 +808,8 @@
 										<string>Position</string>
 										<key>value</key>
 										<array>
-											<real>45</real>
-											<real>88</real>
+											<real>98</real>
+											<real>91</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
@@ -1291,8 +1293,6 @@
 										</array>
 									</dict>
 								</array>
-								<key>selected</key>
-								<true/>
 							</dict>
 						</array>
 						<key>customClass</key>
